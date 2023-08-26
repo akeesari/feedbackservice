@@ -1,12 +1,12 @@
 # Introduction 
 
-Welcome to the world of the .NET Core Web API project! This project is part of the 'Clean Architecture Step by Step Practical Guide'.
+- Welcome to the .NET Core Web API project! This project is part of the `Clean Architecture Step by Step Practical Guide`.
 
-If you're new to .NET Core Web API, don't worry at all. This project is designed to be your starting point. Here, you'll learn how to create 'RESTful API' using the latest version of ASP.NET Core, which is known as .NET 6.
+- If you're new to .NET Core Web API, don't worry at all. This project is designed to be your starting point. Here, you'll learn how to create 'RESTful API' using the latest version of ASP.NET Core, which is known as .NET 6.
 
-Imagine this project as your developer guide to become a .NET Core backend developer in the world of Microsoft technology. 
+- Imagine this project as your developer guide to become a .NET Core backend developer in the world of Microsoft technology. 
 
-You will also learn Entity Framework Core, a powerful tool that helps your projects talk to databases. So, whether you're a beginner or just want to level up your skills, this project has got your back. 
+- You will also learn Entity Framework Core, a powerful tool that helps your projects talk to databases. So, whether you're a beginner or just want to level up your skills, this project has got your back. 
 
 # Build and Test
 
@@ -63,10 +63,3 @@ https://localhost:5001/swagger/feedbackservice/index.html
 **Test Endpoints:**
 
 select the endpoint you want to test from swagger UI and click on `try it out` button.
-
-# Contribute
-
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
